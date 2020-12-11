@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_exportquizquiz-exportquizquizquestionbank",
+    "builds": {
+        "moodle-mod_exportquizquiz-exportquizquizquestionbank": {
+            "jsfiles": [
+                "exportquizquizquestionbank.js"
+            ]
+        }
+    }
+}

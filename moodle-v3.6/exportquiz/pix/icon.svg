@@ -1,0 +1,47 @@
+<svg width="23.999999999999996" height="23.999999999999996" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMid meet">
+ <defs>
+  <linearGradient y1="0" y2="1" x2="0.49785" x1="0.49785" id="a">
+   <stop stop-color="#95BFF8" offset="0"/>
+   <stop stop-color="#84ADEF" offset="0.557"/>
+   <stop stop-color="#7CA4EB" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.497611" y1="0" x1="0.497611" id="b">
+   <stop stop-color="#E7F4FC" offset="0"/>
+   <stop stop-color="#DEEFFC" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.497313" y1="0" x1="0.497313" id="c">
+   <stop stop-color="#CEE9F9" offset="0"/>
+   <stop stop-color="#BBDFF8" offset="1"/>
+  </linearGradient>
+  <linearGradient y1="0" y2="0.995638" x2="0.500208" x1="0.500208" id="d">
+   <stop stop-color="#95BFF8" offset="0"/>
+   <stop stop-color="#84ADEF" offset="0.557"/>
+   <stop stop-color="#7CA4EB" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.471406" x2="0.524921" y1="0.960156" x1="0.028413" id="e">
+   <stop stop-color="#E7F4FC" offset="0"/>
+   <stop stop-color="#E5F3FC" offset="0.518"/>
+   <stop stop-color="#DEF0FB" offset="0.705"/>
+   <stop stop-color="#D3EBFA" offset="0.837"/>
+   <stop stop-color="#CEE9F9" offset="0.872"/>
+   <stop stop-color="#BDD8F0" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1.002227" x2="0.500295" y1="-0.002182" x1="0.500295" id="f">
+   <stop stop-color="#DB6D17" offset="0"/>
+   <stop stop-color="#BF3B08" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m14.4,0l-12.4,0l0,24l20,0l0,-16.1" fill="url(#a)"/>
+  <path id="svg_2" d="m14,1l-11,0l0,22l18,0l0,-14.7" fill="url(#b)"/>
+  <path id="svg_3" d="m13.6,2l-9.6,0l0,20l16,0l0,-13.3" fill="url(#c)"/>
+  <path id="svg_4" fill="url(#d)" d="m13,9s5.2,-1.5 9,0.4l0,-1.5l-7.6,-7.9l-2,0c2.7,3.7 0.6,9 0.6,9z"/>
+  <path id="svg_5" fill="url(#e)" d="m20.4,7.8c-0.9,-0.2 -2,-0.3 -3.1,-0.3s-2.1,0.1 -3,0.3c0.4,-1.6 0.7,-4.1 -0.2,-6.4l6.3,6.4z"/>
+  <path stroke="null" id="svg_11" d="m22.75891,15.141601l-1.315556,0c-0.128453,-0.885642 -0.77382,-1.823496 -1.516612,-2.621896c-0.792436,-0.819549 -1.646927,-1.47651 -2.348143,-1.566396c-0.038474,-0.005287 -0.076948,-0.009253 -0.122868,-0.009914l-4.610029,0c-0.073845,0 -0.145828,0.031064 -0.197954,0.087242c-0.051505,0.054857 -0.081912,0.132185 -0.081912,0.211496l0,3.899467l-1.287011,0c-0.685082,0 -1.24109,0.59219 -1.24109,1.321853l0,5.865723l2.528101,0l0,1.374066c0,0.077989 0.028545,0.152013 0.081912,0.210175c0.053367,0.056179 0.123488,0.086581 0.197954,0.086581l8.343229,0c0.073224,0 0.143966,-0.030403 0.197333,-0.086581s0.085635,-0.131524 0.085635,-0.210175l0,-1.374066l2.528101,0l0,-5.865723c0,-0.729663 -0.555388,-1.321853 -1.24109,-1.321853zm-1.849224,8.262243l-7.785359,0l0,-2.066056l7.785359,0l0,2.066056zm0,-7.075219c0,-0.019828 0,-0.041638 -0.001862,-0.063449c-0.009308,-0.044943 -0.038474,-0.089225 -0.076948,-0.132185l-7.706549,0l0,-4.593439l4.335749,0l0,0.000661c0.189266,-0.012558 0.351849,0.186381 0.477199,0.64176c0.11356,0.432907 0.142105,0.997338 0.142105,1.389268c0.000621,0.286181 -0.01179,0.479172 -0.01179,0.479172l-0.02296,0.315923l0.297862,0.003305c0.001241,0 0.688184,0.009253 1.362717,0.171841c0.647849,0.149369 1.154214,0.446125 1.202616,0.782537c0.001862,0.029742 0.001862,0.060144 0.001862,0.087903l0,0.916705z" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="url(#f)"/>
+ </g>
+</svg>

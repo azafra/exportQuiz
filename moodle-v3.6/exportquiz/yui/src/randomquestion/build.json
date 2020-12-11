@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_exportquiz-randomquestion",
+    "builds": {
+        "moodle-mod_exportquiz-randomquestion": {
+            "jsfiles": [
+                "randomquestion.js"
+            ]
+        }
+    }
+}

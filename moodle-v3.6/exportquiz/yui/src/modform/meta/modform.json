@@ -1,0 +1,9 @@
+{
+    "moodle-mod_exportquiz-modform": {
+        "requires": [
+            "base",
+            "node",
+            "event"
+        ]
+    }
+}

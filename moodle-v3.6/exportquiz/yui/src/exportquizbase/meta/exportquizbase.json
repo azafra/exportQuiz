@@ -1,0 +1,8 @@
+{
+    "moodle-mod_exportquiz-exportquizbase": {
+        "requires": [
+            "base",
+            "node"
+        ]
+    }
+}

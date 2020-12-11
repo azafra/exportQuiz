@@ -1,0 +1,26 @@
+{
+  "moodle-mod_exportquiz-util": {
+    "requires": [
+        "node"
+    ],
+    "use": [
+        "moodle-mod_exportquiz-util-base"
+    ],
+    "submodules": {
+        "moodle-mod_exportquiz-util-base": {
+        },
+        "moodle-mod_exportquiz-util-slot": {
+            "requires": [
+                "node",
+                "moodle-mod_exportquiz-util-base"
+            ]
+        },
+        "moodle-mod_exportquiz-util-page": {
+            "requires": [
+                "node",
+                "moodle-mod_exportquiz-util-base"
+            ]
+        }
+    }
+  }
+}

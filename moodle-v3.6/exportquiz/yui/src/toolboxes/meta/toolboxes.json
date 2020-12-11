@@ -1,0 +1,14 @@
+{
+    "moodle-mod_exportquiz-toolboxes": {
+        "requires": [
+            "base",
+            "node",
+            "event",
+            "event-key",
+            "io",
+            "moodle-mod_exportquiz-exportquizbase",
+            "moodle-mod_exportquiz-util-slot",
+            "moodle-core-notification-ajaxexception"
+        ]
+    }
+}

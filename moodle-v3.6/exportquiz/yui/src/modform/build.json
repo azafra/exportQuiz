@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_exportquiz-modform",
+    "builds": {
+        "moodle-mod_exportquiz-modform": {
+            "jsfiles": [
+                "modform.js"
+            ]
+        }
+    }
+}

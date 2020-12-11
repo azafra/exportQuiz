@@ -1,0 +1,21 @@
+{
+  "name": "moodle-mod_exportquiz-util",
+  "builds": {
+    "moodle-mod_exportquiz-util-base": {
+      "jsfiles": [
+        "base.js"
+      ]
+    },
+    "moodle-mod_exportquiz-util-slot": {
+      "jsfiles": [
+        "slot.js"
+      ]
+    }
+    ,
+    "moodle-mod_exportquiz-util-page": {
+      "jsfiles": [
+        "page.js"
+      ]
+    }
+  }
+}

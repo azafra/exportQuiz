@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_exportquiz-questionchooser",
+    "builds": {
+        "moodle-mod_exportquiz-questionchooser": {
+            "jsfiles": [
+                "questionchooser.js"
+            ]
+        }
+    }
+}

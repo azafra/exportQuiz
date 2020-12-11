@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_exportquiz-repaginate",
+    "builds": {
+        "moodle-mod_exportquiz-repaginate": {
+            "jsfiles": [
+                "repaginate.js"
+            ]
+        }
+    }
+}

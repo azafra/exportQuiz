@@ -1,0 +1,12 @@
+{
+    "name": "moodle-mod_exportquiz-toolboxes",
+    "builds": {
+        "moodle-mod_exportquiz-toolboxes": {
+            "jsfiles": [
+                "toolbox.js",
+                "resource.js",
+                "section.js"
+            ]
+        }
+    }
+}

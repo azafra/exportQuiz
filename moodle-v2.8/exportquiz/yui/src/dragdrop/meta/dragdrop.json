@@ -1,0 +1,19 @@
+{
+    "moodle-mod_exportquiz-dragdrop": {
+        "requires": [
+            "base",
+            "node",
+            "io",
+            "dom",
+            "dd",
+            "dd-scroll",
+            "moodle-core-dragdrop",
+            "moodle-core-notification",
+            "moodle-mod_exportquiz-exportquizbase",
+            "moodle-mod_exportquiz-util-base",
+            "moodle-mod_exportquiz-util-page",
+            "moodle-mod_exportquiz-util-slot",
+            "moodle-course-util"
+        ]
+    }
+}
