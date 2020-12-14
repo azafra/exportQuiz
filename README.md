@@ -9,10 +9,10 @@ ExportQuiz es un módulo para Moodle que permite exportar cuestionarios de forma
      * Asignatura
      * Duración de la prueba
 * Para evitar copias se pueden generar hasta 5 versiones de la prueba mediante los siguientes mecanismos:
-           * Barajar preguntas
-           * Barajar respuestas dentro de las preguntas
-           * Incluir preguntas específicas para cada versión
-           * Para cada versión se genera la correspondiente plantilla del profesor
+     * Barajar preguntas
+     * Barajar respuestas dentro de las preguntas
+     * Incluir preguntas específicas para cada versión
+     * Para cada versión se genera la correspondiente plantilla del profesor
 * Establecer la puntuación de cada pregunta.
 * Las pruebas se generan interaccionando con el banco de preguntas de Moodle, por lo que es posible:
      * Añádir preguntas preguntas concretas o preguntas aleatorias del banco de preguntas
