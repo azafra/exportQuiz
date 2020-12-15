@@ -17,7 +17,15 @@ ExportQuiz es un módulo para Moodle que permite exportar cuestionarios de forma
 * Las pruebas se generan interaccionando con el banco de preguntas de Moodle, por lo que es posible:
      * Añádir preguntas preguntas concretas o preguntas aleatorias del banco de preguntas
      * Añadir nuevas preguntas al banco de preguntas
-     * La versión actual cubre prregutnas de respueta múltiple, verdadero/falso, emparejamiento, respuesta corta y numérica
+     * La versión para Moodle 3 cubre los siguientes tipos de pregutnas:
+       * Respueta múltiple
+       * Verdadero/falso
+       * Emparejamiento
+       * Respuesta corta
+       * Numérica
+     * La versión para Moodle 2 cubre los siguientes tipos de pregutnas:
+       * Respueta múltiple
+       * Descripción
 * Previsualizar la prueba antes de exportar
 * Formatos de salida: (*pdf, docx y zip*)
 
